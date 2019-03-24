@@ -1,2 +1,2 @@
-# currency_converter
-The Program takes dollar input and convert it to British Pounds 
+# Visual Basics Currency Converter
+The Program takes dollar input and convert it to British Pounds  
